@@ -1,6 +1,6 @@
 let header = document.querySelector('#page-header')
 header.style.textAlign = "left"
-docyment.getElementByID("Doggos").innerHTML="The Best Woofers";
+document.getElementByID("Doggos").innerHTML="The Best Woofers";
 header.style.backgroundColor="coral";
 
 
